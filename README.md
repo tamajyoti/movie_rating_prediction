@@ -3,10 +3,10 @@
 The movie rating prediction is based on Movie lens data 
 
 to run the project
-# Add the data from kaggle to the archive folder
+#### Add the data from kaggle to the archive folder
 
-# build the docker
+#### Build the docker
 docker build -t **porject_name** .
 
-# run the docker
+#### run the docker
 docker run -it keuski
